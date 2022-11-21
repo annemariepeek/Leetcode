@@ -21,3 +21,4 @@ print(find_sentence(s, str))
 s2 = {"bed", "bath", "bedbath", "and", "beyond"}
 str2 = "bedbathandbeyond"
 print(find_sentence(s2, str2))
+

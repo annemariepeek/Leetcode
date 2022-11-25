@@ -17,3 +17,5 @@ Given the root to a binary search tree, find the second largest node in the tree
 1. Traverse the left subtree, i.e., call Postorder(left->subtree)
 2. Traverse the right subtree, i.e., call Postorder(right->subtree)
 3. Visit the root
+
+![BST](Preorder-from-Inorder-and-Postorder-traversals.jpg)

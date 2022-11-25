@@ -18,4 +18,4 @@ Given the root to a binary search tree, find the second largest node in the tree
 2. Traverse the right subtree, i.e., call Postorder(right->subtree)
 3. Visit the root
 
-![BST](Preorder-from-Inorder-and-Postorder-traversals.jpg)
+![BST](./Preorder-from-Inorder-and-Postorder-traversals.jpg)
